@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Aula GitHub Actions 2022-2
+          Aula GitHub Actions 2022-2 - main wokflow
         </p>
         <a
           className="App-link"
