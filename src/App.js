@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Aula GitHub Actions 2022-2 - dev wokflow working
+          Aula GitHub Actions 2022-2 - pull_request workflow
         </p>
         <a
           className="App-link"
