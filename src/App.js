@@ -2,12 +2,12 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  returnn (
+  return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Aula GitHub Actions 2022-2 - main wokflow
+          Aula GitHub Actions 2022-2 - dev wokflow
         </p>
         <a
           className="App-link"
